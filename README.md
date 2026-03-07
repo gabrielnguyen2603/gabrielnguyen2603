@@ -1,19 +1,23 @@
+
+
+
 ![header](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44A194&width=435&lines=Hello%2C+It's+Gabriel+(Hoang)+Nguyen;Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&color=BC34F7&width=435&lines=Hi%2C+It's+Gabriel+Nguyen;Data+Analyst)](https://git.io/typing-svg)
 
+
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/9aa082b6-5386-4040-8baa-573ce4427fc3" />
 
 ### A passionate Jupyter notebook developer
 
+- 🌱 I'm currently learning **AWS Cloud Architect and R** 
 
-- 🌱 I'm currently learning **AWS Cloud Architect and R **
+- 💬 Ask me about **Power BI, SQL and Python, Excel** 
 
-- 💬 Ask me about **Power BI, SQL and Python, Excel **
+- 📫 How to reach me gabrielnguyen2603@gmail.com
 
-- 📫 How to reach me **gabrielnguyen2603@gmail.com**
-
-- ⚡ Fun fact **i am pretty talkative and love to play piano. (just 1 song) **
+- ⚡ Fun fact **i am pretty talkative and love to play piano. (just 1 song)**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gabrielnguyen2603](https://github.com/gabrielnguyen2603)**
 
@@ -37,6 +41,10 @@
     <img src="https://skillicons.dev/icons?i=git,aws,docker,r,matlab" />
   </a>
 </p>
+
+<h3 align="left">GitHub Readme Streak Stats:</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnguyen2603&theme=dark)](https://git.io/streak-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer)
