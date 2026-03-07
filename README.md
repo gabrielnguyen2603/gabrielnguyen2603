@@ -7,11 +7,9 @@
 ### A passionate Jupyter notebook developer
 
 
-- 🔭 I'm currently working on **Portfolio Optimization Project **
-
 - 🌱 I'm currently learning **AWS Cloud Architect and R **
 
-- 💬 Ask me about **Power BI, SQL and Python **
+- 💬 Ask me about **Power BI, SQL and Python, Excel **
 
 - 📫 How to reach me **gabrielnguyen2603@gmail.com**
 
@@ -19,15 +17,12 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/gabrielnguyen2603](https://github.com/gabrielnguyen2603)**
 
-- 📝 I regularly write articles on **[https://medium.com/@gabrielnguyen2603](https://medium.com/@gabrielnguyen2603)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/gabrielnguyen2603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gabrielnguyen2603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Gabriel (Hoang) Nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel (Hoang) Nguyen" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel.dataanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.dataanalyst" height="30" width="40" /></a>
-<a href="https://hackerrank.com/nguyenhoang26031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nguyenhoang26031" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
