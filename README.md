@@ -9,7 +9,7 @@
 
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/9aa082b6-5386-4040-8baa-573ce4427fc3" />
 
-### A passionate Jupyter notebook developer
+### Aspiring Data Analyst & BI Developer
 
 - 🌱 I'm currently learning **AWS Cloud Architect and R** 
 
